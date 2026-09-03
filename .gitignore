@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+.expo-shared/
+static-build/
+dist/
+web-build/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pem
+*.key
